@@ -1,0 +1,23 @@
+# Dependency directory
+node_modules/
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+
+# Database files (jika ada file dump atau backup)
+*.sql
+*.sqlite
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# System files
